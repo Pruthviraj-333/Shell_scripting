@@ -6,3 +6,4 @@ echo "we are learning pull request"
 
 echo "we are learning how to merge"
 
+echo "we are learning branching and PR"
